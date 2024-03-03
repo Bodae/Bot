@@ -1,0 +1,2 @@
+# Bot
+All loss cover
